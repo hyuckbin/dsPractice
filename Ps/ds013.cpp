@@ -18,7 +18,7 @@ void addCafe(Cafe &s){
 
     cin >> s.menuCount;
 
-    s.list = new Menu[s.menuCount]; // 동적 배열 생성
+    s.list = new Menu[s.menuCount]; // 동적 배열 생성dd
 }
 void addMenu(Menu &menu){
     cin >> menu.name;
