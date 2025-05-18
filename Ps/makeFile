@@ -1,0 +1,10 @@
+CPP = g++
+
+a_ds011 : ds011.cpp
+	$(CPP) -o $@ $^
+	
+a_ds012 : ds012.cpp
+	$(CPP) -o $@ $^
+
+a_ds013 : ds013.cpp
+	$(CPP) -o $@ $^
