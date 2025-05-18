@@ -8,3 +8,8 @@ a_ds012 : ds012.cpp
 
 a_ds013 : ds013.cpp
 	$(CPP) -o $@ $^
+
+a_ds014 : ds014.cpp
+	$(CPP) -o $@ $^
+clean : 
+	rm a_*
