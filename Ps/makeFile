@@ -11,5 +11,9 @@ a_ds013 : ds013.cpp
 
 a_ds014 : ds014.cpp
 	$(CPP) -o $@ $^
+	
+
+a_ds015 : ds015.cpp
+	$(CPP) -o $@ $^
 clean : 
 	rm a_*
