@@ -1,22 +1,7 @@
 CPP = g++
 
-a_ds011 : ds011.cpp
-	$(CPP) -o $@ $^
-	
-a_ds012 : ds012.cpp
+a_ds022 : ds02.cpp
 	$(CPP) -o $@ $^
 
-a_ds013 : ds013.cpp
-	$(CPP) -o $@ $^
-
-a_ds014 : ds014.cpp
-	$(CPP) -o $@ $^
-	
-
-a_ds015 : ds015.cpp
-	$(CPP) -o $@ $^
-
-a_ds016 : ds016.cpp
-	$(CPP) -o $@ $^
 clean : 
 	rm a_*
