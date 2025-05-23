@@ -3,10 +3,6 @@ CPP = g++
 a_ds022 : ds02.cpp
 	$(CPP) -o $@ $^
 
-a_ds022 : ds02.cpp
-	$(CPP) -o $@ $^
-
-
 
 a_ds032 : ds032/ds32.cpp
 	$(CPP) -o $@ $^
