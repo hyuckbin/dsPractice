@@ -21,7 +21,7 @@ double Student::getAvg() const{
     for(int i=0; i<SIZE; i++){
         
     }
-}//ASA
+}
 
 void input(Student &s){
     cin >> s.sid;
