@@ -29,7 +29,7 @@ int main(){
     cout<< item.itemName2 << item.price2 << item.constructor2 <<endl;
     if(isCorrect(item)){
         cout << item.itemName1<< " and " << item.itemName2 <<" is not equal."
-    }
+    }//SDSD
     return 0;
 }
 
