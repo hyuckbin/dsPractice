@@ -24,7 +24,7 @@ int main(){
         ss>>gpa>>name;
 
         cout << "GPA : " << gpa << ", Name: " << name <<endl;
-
+        
     }
 
     file.close();
