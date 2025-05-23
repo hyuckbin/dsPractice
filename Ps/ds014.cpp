@@ -13,7 +13,7 @@ void ltrim(string &s){
         cout << "";
     }
 }
-//SAA
+
 void rtrim(string &s){
     int last = s.find_last_not_of(" \t");
     if(last != string :: npos){
