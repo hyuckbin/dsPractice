@@ -33,5 +33,5 @@ int main(){
     }
 
     cout << same;
-    return 0;//SAS
+    return 0;
 }
