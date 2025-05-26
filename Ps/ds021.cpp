@@ -36,4 +36,4 @@ int main(){
     s1.score = new int[SIZE];
 
     input(s1);
-}
+}//MAIN
