@@ -4,7 +4,7 @@ using std :: cin ;
 using std :: cout ;
 using std :: endl ;
 
-//숫자들의 총합을 구한다.
+//숫자들의 총합을 구한다. DD
 int addNum(int count ,int* n){
     int sum = 0;
     for(int i=0; i<count ; i++){
