@@ -34,6 +34,6 @@ void input(Student &s){
 int main(){
     Student s1;
     s1.score = new int[SIZE];
-
+//s
     input(s1);
 }
