@@ -20,7 +20,7 @@ bool isCorrect(st_item& s); //일치하면 true 전달
 
 //구조체 비교하기
 // 상품이름 비교할 때 대소문자 구분 X
-// 상품이름과 가격이 같다면 EQUAL 출력sa
+// 상품이름과 가격이 같다면 EQUAL 출력s
 int main(){
     st_item item ;
     inputItem(item);
@@ -28,7 +28,7 @@ int main(){
     cout<< item.itemName1 << item.price1 << item.constructor1 <<endl;
     cout<< item.itemName2 << item.price2 << item.constructor2 <<endl;
     if(isCorrect(item)){
-        cout << item.itemName1<< " and " << item.itemName2 <<" is not equal."
+        cout << item.itemName1<< " and " << item.itemName2 <<" is not equal." ;
     }
     return 0;
 }
