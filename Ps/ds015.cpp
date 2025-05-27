@@ -61,6 +61,6 @@ int main(){
     // cout << s.substr(2)<< endl;
     // cout << s.substr(2,6)<< endl;   // 2부터 6글자 -s> llo wo
     
-    // cout << s.substr(0,3)<< endl;
+    // cout << s.substr(0,3)<< endl;a
     return 0;
 }
