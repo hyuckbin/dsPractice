@@ -1,5 +1,6 @@
 CPP = g++
 
+all : a_ds022 a_ds032
 a_ds022 : ds02.cpp
 	$(CPP) -o $@ $^
 
