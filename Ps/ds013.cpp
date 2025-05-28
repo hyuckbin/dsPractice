@@ -8,7 +8,7 @@ struct Menu{
 };
 struct Cafe{
     string name; //식당이름
-    int menuCount; //메뉴 개수a
+    int menuCount; //메뉴 개수aasdasd
     Menu* list; //메뉴리스트s
 };
 
