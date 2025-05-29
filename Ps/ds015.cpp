@@ -59,7 +59,7 @@ int main(){
     // cout << s.size()<< endl;
     // cout << s.substr()<< endl;
     // cout << s.substr(2)<< endl;a
-    // cout << s.substr(2,6)<< endl;   // 2부터 6글자 aa
+    // cout << s.substr(2,6)<< endl;   // 2부터 6글자 a
     //sss
     // cout << s.substr(0,3)<< endl;a
     return 0;
