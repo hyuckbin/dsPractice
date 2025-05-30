@@ -8,7 +8,7 @@ using namespace std;
 int main(){
     string line;
     string filename;
-    getline(cin, filename); //데이터 파일 이름 입력ssa
+    getline(cin, filename); //데이터 파일 이름 입력ss
 
     ifstream file(filename);
     if(!file.is_open()){
