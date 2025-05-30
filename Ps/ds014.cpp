@@ -8,10 +8,12 @@ void ltrim(string &s){
     int first = s.find_first_not_of(" \t");
     if(first!= string :: npos){
         s = s.substr(first); //first 앞부분은 생략
+    }
     else{
         cout << "";
     }
 }
+
 
 void rtrim(string &s){
     int last = s.find_last_not_of(" \t");
