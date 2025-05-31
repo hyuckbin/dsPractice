@@ -1,6 +1,6 @@
 #include <iostream>
 
-int val = 100; // 전역변수
+int val = 100; // 전역변수ㅁ
 
 using std ::cout;
 using std ::endl;
