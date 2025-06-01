@@ -18,7 +18,7 @@ struct st_item{
 void inputItem(st_item& s); //정보 입력
 bool isCorrect(st_item& s); //일치하면 true 전달
 
-//구조체 비교하기
+//구조체 비교하기a
 // 상품이름 비교할 때 대소문자 구분 
 // 상품이름과 가격이 같다면 EQUAL 출력
 int main(){
