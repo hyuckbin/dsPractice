@@ -60,7 +60,7 @@ int main(){
     // cout << s.substr()<< endl;
     // cout << s.substr(2)<< endl;
     // cout << s.substr(2,6)<< endl;   // 2부터 6글자 a
-    //sssa
+    //sssaa
     // cout << s.substr(0,3)<< endl;a
     return 0;
 }
