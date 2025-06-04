@@ -19,7 +19,7 @@ class LLStack{
         void push(int value){
             //값 설정 ->새 노드 생성
             Node *newnode = new Node(value);
-            //새 노드의 next에 top 대입 ->top에 새 노드 주소
+            //새 노드의 next에 top 대입 ->top에 새 노드 주소.
             newnode->next = top;
             top = newnode;
 
