@@ -23,7 +23,7 @@ class LLStack2{
             if(isEmpty()) return -1;
 
             Node* pn = top;
-            int pVal = top -> data; // 리턴할 pop 데이터 저장
+            int pVal = top -> data; // 리턴할 pop 데이터 저장.
             
             top = pn ->next; // 맨위의 데이터를 한 칸 내린다.
 
