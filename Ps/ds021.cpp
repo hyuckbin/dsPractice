@@ -2,7 +2,7 @@
 using namespace std;
 
 const int SIZE = 3;
-//학생a1
+//학생a11
 class Student{
     private:
         double getAvg() const;
