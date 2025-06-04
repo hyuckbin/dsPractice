@@ -1,4 +1,4 @@
-//구구단 출력
+//구구단 출력1
 #include <iostream>
 using namespace std;
 
