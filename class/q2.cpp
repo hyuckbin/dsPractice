@@ -6,7 +6,7 @@ class Qu{
     int maxSize;
     int* list;
     
-    //method
+    //method.
     public:
         Qu(int size): front(0) , rear(0), maxSize(size +1) {
             list = new int[maxSize];
