@@ -11,7 +11,7 @@ int addNum(int count ,int* n){
     }
 
     return sum;
-}//a
+}
 int MaxNum(int count ,int* n){
     int maxnum = 0;
 
