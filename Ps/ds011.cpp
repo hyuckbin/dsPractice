@@ -11,8 +11,7 @@ int addNum(int count ,int* n){
     }
 
     return sum;
-}
-//최댓값을 구하는 함수a11
+}//a
 int MaxNum(int count ,int* n){
     int maxnum = 0;
 
