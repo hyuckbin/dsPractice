@@ -6,7 +6,7 @@ using namespace std;
 
 string prefix(string *s1 , string *s2){
      int i = 0;
-     //이렇게 하는이유 다시 생각해봐라 (*s1)[i]a11a
+     //이렇게 하는이유 다시 생각해봐라 (*s1)[i]a11aa
     while (i < s1->size() && i < s2->size() && (*s1)[i] == (*s2)[i]) {
         i++;
     }
