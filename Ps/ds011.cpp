@@ -21,7 +21,7 @@ int MaxNum(int count ,int* n){
     return maxnum;
 }
 
-//입력한 수의 전체 합과 최댓값 구하기aaa
+//입력한 수의 전체 합과 최댓값 구하기aaaa
 int main(){
     int count; // 숫자 갯수
     int sumNum; // 총합
