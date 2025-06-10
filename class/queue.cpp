@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//deque
 //circular 연습
 class CQ{
     int front , rear;
