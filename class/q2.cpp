@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//qq2
 class Qu{
     int front , rear;
     int maxSize;
