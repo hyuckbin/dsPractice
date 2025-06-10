@@ -7,8 +7,8 @@ struct Menu{
     int price; //가격
 };
 struct Cafe{
-    string name; //식당이름a
-    int menuCount; //메뉴 개수1a
+    string name; //식당이름
+    int menuCount; //메뉴 개수
     Menu* list; //메뉴리스트a
 };
 
