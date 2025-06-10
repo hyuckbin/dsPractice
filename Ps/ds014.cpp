@@ -7,7 +7,7 @@ void ltrim(string &s){
 
     int first = s.find_first_not_of(" \t");
     if(first!= string :: npos){
-        s = s.substr(first); //first 앞부분은 생략ㅁa12aaaa
+        s = s.substr(first); //first 앞부분은 생략
     }
     else{
         cout << "";
