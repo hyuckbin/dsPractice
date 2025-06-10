@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//q 연습
+//q3연습
 class CQ{
     int front , rear;
     int maxSize;
