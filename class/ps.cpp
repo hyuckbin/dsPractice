@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ps
 //노드 class
 class Node{
     public :
